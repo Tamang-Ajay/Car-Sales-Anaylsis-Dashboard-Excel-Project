@@ -1,6 +1,6 @@
 # Car-Sales-Anaylsis-Dashboard(Excel)
 # 📊 Car Sales Analysis
-<a href="#">View Dashboard</a> OR <a href="">View Project</a>
+<a href="https://github.com/Tamang-Ajay/Car-Sales-Anaylsis-Dashboard-Excel-Project/blob/main/Car%20Sales%20Analysis%20Dashboard.pdf">View Project</a>
 
 ## 📌Overview:
 I designed an interactive car sales dashboard of year 2022-2024 to analyze the car sales purchasing trends and revenue generated in different continents. The goal was to provide a clear data insight for better decision-making.
@@ -19,7 +19,7 @@ The goal was to create comprehensive dashboard to track key metrices like total 
 - Provided a user-friendly, real-time dashboard for better business decisions.
 
 ## ❗ Note
-The Excel file is **not included** but sample is provided to prevent misuse or duplication. <a href=""> View Sample File</a>
+The Excel file is **not included** but sample is provided to prevent misuse or duplication. <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FTamang-Ajay%2FCar-Sales-Anaylsis-Dashboard-Excel-Project%2Frefs%2Fheads%2Fmain%2Fdataset.xlsx&wdOrigin=BROWSELINK"> View Sample File</a>
 
 📩 *If you'd like to review the file, feel free to reach out to me directly.*
 
